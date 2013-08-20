@@ -1,0 +1,1 @@
+results: -r features/ --no-source --format pretty --format PrettyFace::Formatter::Html --out results/index.html
